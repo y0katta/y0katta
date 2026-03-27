@@ -37,7 +37,7 @@ Hi! I'm Anastasia Rodnykh - a Frontend Developer. I'm learning how to create use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2D2D2D?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-2D2D2D?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-2D2D2D?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-2D2D2D?style=flat-square&logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-2D2D2D?style=flat-square&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-2D2D2D?style=flat-square&logo=git&logoColor=white)
 
 ---
